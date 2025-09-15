@@ -26,7 +26,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/HeiSunBerg/Cyber-attack-detection-training-process.git
-cd lstm-cyber-attack
+cd Cyber-attack-detection-training-process
 ```
 Install dependencies with:
 
